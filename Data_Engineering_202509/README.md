@@ -36,10 +36,10 @@ Please submit a small repo or zip file containing:
 
 - **duopoly.py** — your pricing function and compact helpers.
 - **PDF summary** (≤ 2 page) — explain (include brief pseudocode and a short rationale for each structure):
--   your data structures (what/why/size),
--   your online update equations,
--   cold-start & edge-case handling,
--   the chosen policy and trade-offs.
+  - your data structures (what/why/size),
+  - your online update equations,  
+  - cold-start & edge-case handling,
+  - the chosen policy and trade-offs.
 - **tests.py** — a couple of tiny unit tests (e.g., ring buffer rollover; running covariance update).
 - **(Optional) simulate_local.py** — a toy simulator calling your p(...) to show state evolution.
 
